@@ -4,7 +4,7 @@ This is a Step-By-Step Tutorial for Setting up CEF on ClassiCube, just follow th
 ## Note
 CEF Does not work on the web version of ClassiCube
 
-## Step 0
+## Step 0 (Optional)
 Download the ClassiCube Desktop Client (at https://www.classicube.net/download/ )
 
 ## Step 1
