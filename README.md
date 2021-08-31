@@ -11,7 +11,7 @@ Download the ClassiCube Desktop Client (at https://www.classicube.net/download/ 
 Head to https://github.com/SpiralP/classicube-cef-loader-plugin
 
 ## Step 2
-Choose the version that is equal to the version of classicube
+Choose the version that is equal to the version of classicube you have
 
 ## Step 3
 Drag and Drop the Dll/So/Dylib file into a folder named "plugins", on the location of the classicube executable. if a "plugins" Folder doesn't exist, create one.
